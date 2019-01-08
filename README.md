@@ -2,7 +2,9 @@
 Counts the number of characters in a string and the number of lowercase letters
 
 %include "asm_io.inc"
+
 SECTION .data
+
 string: db "Hello World ",10,0
 strlen: db "the length of the string is ",0
 upper: db "the number of lower case letters is ",0
