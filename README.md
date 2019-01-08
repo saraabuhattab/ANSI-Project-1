@@ -1,4 +1,4 @@
-# ANSI-project1
+# ANSI-Project-1
 Counts the number of characters in a string and the number of lowercase letters
 
 %include "asm_io.inc"
